@@ -1,0 +1,3 @@
+LIBRARY SigmoidalColor.auf
+EXPORTS
+	GetFilterTableList @1
